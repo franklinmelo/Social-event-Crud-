@@ -18,7 +18,7 @@
     }
 ?>
 
-<?php require 'header.php'?>
+<?php require 'headerLogin.php'?>
     <div class='container'>
         <div class='card mt-5'>
             <div class='card-header'>
